@@ -1,0 +1,5 @@
+Top;Content
+Variables;A Python variable isÿa symbolic name that is a reference or pointer to an object. Once an object is assigned to a variable, you can refer to the object by that name.
+Lists;Lists areÿused to store multiple items in a single variable. Lists are one of 4 built-in data types in Python used to store collections of data, the other 3 are Tuple, Set, and Dictionary, all with different qualities and usage.
+Functions;A function isÿa block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can return data as a result.
+While-loop;What is a while loop in Python? A while loop willÿrun a piece of code while a condition is True. It will keep executing the desired set of code statements until that condition is no longer True.
